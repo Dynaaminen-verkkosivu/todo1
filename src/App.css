@@ -4,3 +4,17 @@
 input {
   margin: 10px;
 }
+
+.delete,.edit {
+  text-decoration: none;
+  color: #333;
+}
+.editForm {
+  display: inline-block;
+}
+button {
+  margin: 10px;
+}
+.delete {
+  margin-left: 20px;
+}
